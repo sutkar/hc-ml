@@ -1,0 +1,7 @@
+{
+    "model_type": "LightGBMClassifier",
+    "roc_auc": 0.5465,
+    "pr_auc": 0.7709,
+    "train_rows": 14400,
+    "test_rows": 3600
+}
